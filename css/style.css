@@ -32,9 +32,8 @@ body {
     color: #14A79F; 
 }
 
-.menu .highlight {
-    background: #F79432; 
-    color: white;
+.menu .highlight { 
+    color: #14A79F;
     padding: 10px;
 }
 
