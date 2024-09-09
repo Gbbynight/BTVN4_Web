@@ -86,7 +86,7 @@ body {
     gap: 20px;
 }
 
-.bestseller-content h1 {
+.bestseller-head h1 {
     display: flex;
     justify-content: center;
     color: #14A79F; 
@@ -235,7 +235,7 @@ form p {
 }
 
 .inform input.address {
-    margin-left: 135px;
+    margin-left: 140px;
 }
 
 .acceptsend button {
