@@ -200,6 +200,7 @@ body {
 form {
     text-align: center;
     margin-left: 60px;
+    
 }
 
 form p {
@@ -208,36 +209,36 @@ form p {
     font-weight: bold;
 }
 
-.thongtin {
+.inform {
     margin-left: -30%;
     gap: 20px;
     padding-bottom: 10px;
 }
 
-.thongtin label {
+.inform label {
     color: #F79432; 
     font-weight: bold;
     font-size: 20px;
 }
 
-.thongtin input {
+.inform input {
     width: 400px;
     height: 20px;
 }
 
-.thongtin input.name {
+.inform input.name {
     margin-left: 120px;
 }
 
-.thongtin input.phone {
+.inform input.phone {
     margin-left: 150px;
 }
 
-.thongtin input.address {
+.inform input.address {
     margin-left: 135px;
 }
 
-.nut button {
+.acceptsend button {
     background: #F79432; 
     color: white;
     border: none;
@@ -247,7 +248,7 @@ form p {
     font-weight: bold;
 }
 
-.nut button.send {
+.acceptsend button.send {
     padding: 20px 45px;
 }
 
